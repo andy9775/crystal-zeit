@@ -1,22 +1,20 @@
 # zeit_crystal
 
-TODO: Write a description here
+Setting up a basic crystal http server with [zeit now](https://zeit.co/)
 
 ## Installation
 
-TODO: Write installation instructions here
+Ensure you have both [crystal-lang](https://crystal-lang.org/) and [now](https://zeit.co/now) installed
 
 ## Usage
 
-TODO: Write usage instructions here
+To run the app locally execute `crystal run src/zeit_crystal.cr`
 
-## Development
-
-TODO: Write development instructions here
+To push out to the web execute `now` from inside the project directory.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/zeit_crystal/fork )
+1. Fork it ( https://github.com/andy9775/zeit_crystal/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -24,4 +22,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Andy - creator, maintainer
+- [andy9775](https://github.com/andy9775) Andy - creator, maintainer
