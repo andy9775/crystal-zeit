@@ -1,0 +1,13 @@
+name: zeit_crystal
+version: 0.1.0
+
+authors:
+  - Andy <andy9775@gmail.com>
+
+targets:
+  zeit_crystal:
+    main: src/zeit_crystal.cr
+
+crystal: 0.24.1
+
+license: MIT
